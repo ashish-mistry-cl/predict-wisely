@@ -1,0 +1,6 @@
+{
+  "name": "Kachuful Judgement Multiplayer",
+  "description": "Real-time multiplayer Kachuful (Judgement) card game with bidding, hook rule, customizable rounds, AI bot backfill, and ranked leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
